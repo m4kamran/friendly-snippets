@@ -322,7 +322,7 @@
                 "path": "./snippets/frameworks/vue/style.json"
             },
             {
-                "language": "angular",
+                "language": ["html", "htmlangular"],
                 "path": "./snippets/frameworks/angular/html.json"
             },
             {
